@@ -1,8 +1,6 @@
 # Topic: Parser & Building an Abstract Syntax Tree
 
 ### Course: Formal Languages & Finite Automata
-### Author: [Your Name]
-### Group: [Your Group]
 
 ----
 
